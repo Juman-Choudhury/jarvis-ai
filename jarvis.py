@@ -9,7 +9,7 @@ from google.generativeai import generate_text, configure
 
 def aiResponce(prompt):
         # Set up your API key
-    configure(api_key='AIzaSyDTC0n8nqC2J1qRBKV8V8her84TuV0Dciw')
+    configure(api_key='APi_key')
     # Generate text
     response = generate_text(prompt=prompt)
 
