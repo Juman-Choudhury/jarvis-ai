@@ -7,7 +7,7 @@
 
 ## 🌱 I’m currently learning
 - Advanced C++
-- Python Libraries 
+- Python Libraries
 - Web Technologies and Frameworks
 
 ## 💞️ I’m looking to collaborate on
@@ -16,12 +16,11 @@
 - Development of new tools and utilities
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/juman-choudhury/)
+- [LinkedIn](https://www.linkedin.com/in/juman-choudhury-785892289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## 😄 Pronouns:
 - He/Him
 
 ## ⚡ Fun fact:
 - I enjoy solving programming problems, creating websites, traveling, and watching movies.
-
 
